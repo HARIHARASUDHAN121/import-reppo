@@ -39,7 +39,7 @@ git clone https://github.com/u-boot/u-boot.git
 cd u-boot
 ```
 
-## 4. Configure for RPi3
+###### 4. Configure for RPi3
 
 Install the dependencies as required:
 
