@@ -34,10 +34,10 @@ Note the difference in `host` and `target` GCC
 
 ## 3. Download upstream U-Boot source
 
-`shell
+```shell
 git clone https://github.com/u-boot/u-boot.git
 cd u-boot
-`
+```
 
 ## 4. Configure for RPi3
 
